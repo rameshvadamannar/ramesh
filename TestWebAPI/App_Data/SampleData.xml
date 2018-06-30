@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Samples>
+  <SampleData>
+  <Id>3f2b12b8-2a06-45b4-b057-45949279b4e5</Id>
+  <ApplicationId>197104</ApplicationId>
+  <Type>Debit</Type>
+  <Summary>Payment</Summary>
+  <Amount>58.26</Amount>
+  <PostingDate>2016-07-01T00:00:00</PostingDate>
+  <IsCleared>true</IsCleared>
+  <ClearedDate>2016-07-02T00:00:00</ClearedDate>
+  </SampleData>
+<SampleData>
+  <Id>d2032222-47a6-4048-9894-11ab8ebb9f69</Id>
+  <ApplicationId>197104</ApplicationId>
+  <Type>Debit</Type>
+  <Summary>Payment</Summary>
+  <Amount>50.09</Amount>
+  <PostingDate>2016-08-01T00:00:00</PostingDate>
+  <IsCleared>true</IsCleared>
+  <ClearedDate>2016-08-02T00:00:00</ClearedDate>
+  </SampleData>
+<SampleData>
+  <Id>fhgfhgf-2a06-45b4-b057-45949279b4e5</Id>
+  <ApplicationId>197174</ApplicationId>
+  <Type>Debit</Type>
+  <Summary>Payment</Summary>
+  <Amount>38.0</Amount>
+  <PostingDate>2016-07-01T00:00:00</PostingDate>
+  <IsCleared>true</IsCleared>
+  <ClearedDate>2016-07-02T00:00:00</ClearedDate>
+  </SampleData>
+<SampleData>
+  <Id>fhgfg-47a6-4048-9894-11ab8ebb9f69</Id>
+  <ApplicationId>197164</ApplicationId>
+  <Type>Debit</Type>
+  <Summary>Payment</Summary>
+  <Amount>60.09</Amount>
+  <PostingDate>2016-08-01T00:00:00</PostingDate>
+  <IsCleared>true</IsCleared>
+  <ClearedDate>2016-08-02T00:00:00</ClearedDate>
+  </SampleData>
+</Samples>
